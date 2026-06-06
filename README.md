@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sarthugx/dsa-practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/sarthugx/dsa-practice/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/sarthugx/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sarthugx/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sarthugx/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthugx/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sarthugx/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sarthugx/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthugx/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sarthugx/dsa-practice/tree/master/0031-next-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sarthugx/dsa-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
