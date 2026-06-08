@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthugx/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sarthugx/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sarthugx/dsa-practice/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sarthugx/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0867-transpose-matrix](https://github.com/sarthugx/dsa-practice/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/sarthugx/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sarthugx/dsa-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarthugx/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarthugx/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/sarthugx/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sarthugx/dsa-practice/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sarthugx/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sarthugx/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
