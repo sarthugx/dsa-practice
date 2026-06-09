@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sarthugx/dsa-practice/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/sarthugx/dsa-practice/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/sarthugx/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/sarthugx/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarthugx/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sarthugx/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/sarthugx/dsa-practice/tree/master/0645-set-mismatch) |
+| [2965-find-missing-and-repeated-values](https://github.com/sarthugx/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sarthugx/dsa-practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sarthugx/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/sarthugx/dsa-practice/tree/master/0867-transpose-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/sarthugx/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sarthugx/dsa-practice/tree/master/0048-rotate-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/sarthugx/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
