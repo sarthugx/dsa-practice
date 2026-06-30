@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sarthugx/dsa-practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sarthugx/dsa-practice/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/sarthugx/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sarthugx/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/sarthugx/dsa-practice/tree/master/0645-set-mismatch) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sarthugx/dsa-practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
