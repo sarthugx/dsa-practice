@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sarthugx/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sarthugx/dsa-practice/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/sarthugx/dsa-practice/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sarthugx/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sarthugx/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sarthugx/dsa-practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sarthugx/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sarthugx/dsa-practice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sarthugx/dsa-practice/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
