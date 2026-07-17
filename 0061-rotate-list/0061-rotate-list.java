@@ -24,6 +24,8 @@ class Solution {
 
 
         k = k%n;
+        //if list is [12345] and k is 5 so k bexcomes 0,
+        //so ans becomes [12345] itself
         if (k == 0) return head;
         int steps = (n-k)%n;
 
@@ -37,19 +39,5 @@ class Solution {
 
         tail.next = head;
         return newHead;
-    }
-
-    public ListNode reverse (ListNode head){
-        ListNode curr = head;
-        ListNode prev = null;
-
-        while(curr != null){
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-        }
-
-        return prev;
     }
 }
