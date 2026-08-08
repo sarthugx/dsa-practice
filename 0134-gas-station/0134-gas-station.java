@@ -14,7 +14,7 @@ class Solution {
         int startIdx = 0;
 
         for(int i = 0; i<gas.length; i++){
-            currentGas += gas[i] - cost[i];
+            currentGas += (gas[i] - cost[i]);
 
             if(currentGas < 0){
                 startIdx = i + 1;
