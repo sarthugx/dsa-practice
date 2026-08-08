@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sarthugx/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthugx/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sarthugx/dsa-practice/tree/master/0645-set-mismatch) |
+| [0763-partition-labels](https://github.com/sarthugx/dsa-practice/tree/master/0763-partition-labels) |
 | [2965-find-missing-and-repeated-values](https://github.com/sarthugx/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sarthugx/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/sarthugx/dsa-practice/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/sarthugx/dsa-practice/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthugx/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0763-partition-labels](https://github.com/sarthugx/dsa-practice/tree/master/0763-partition-labels) |
 ## Linked List
 |  |
 | ------- |
@@ -223,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sarthugx/dsa-practice/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/sarthugx/dsa-practice/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
