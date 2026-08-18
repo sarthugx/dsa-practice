@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sarthugx/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sarthugx/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sarthugx/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/sarthugx/dsa-practice/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/sarthugx/dsa-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sarthugx/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthugx/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sarthugx/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sarthugx/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthugx/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/sarthugx/dsa-practice/tree/master/0322-coin-change) |
 ## Sorting
 |  |
 | ------- |
@@ -235,4 +237,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sarthugx/dsa-practice/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/sarthugx/dsa-practice/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/sarthugx/dsa-practice/tree/master/0763-partition-labels) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sarthugx/dsa-practice/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sarthugx/dsa-practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sarthugx/dsa-practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
