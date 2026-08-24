@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sarthugx/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sarthugx/dsa-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sarthugx/dsa-practice/tree/master/0202-happy-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthugx/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/sarthugx/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sarthugx/dsa-practice/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sarthugx/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/sarthugx/dsa-practice/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthugx/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
