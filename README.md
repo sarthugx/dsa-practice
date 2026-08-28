@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sarthugx/dsa-practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sarthugx/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarthugx/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sarthugx/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sarthugx/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sarthugx/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sarthugx/dsa-practice/tree/master/0148-sort-list) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthugx/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/sarthugx/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0763-partition-labels](https://github.com/sarthugx/dsa-practice/tree/master/0763-partition-labels) |
 ## Linked List
 |  |
