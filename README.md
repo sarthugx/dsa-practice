@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sarthugx/dsa-practice/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/sarthugx/dsa-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sarthugx/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/sarthugx/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthugx/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sarthugx/dsa-practice/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/sarthugx/dsa-practice/tree/master/0867-transpose-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarthugx/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sarthugx/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sarthugx/dsa-practice/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/sarthugx/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthugx/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sarthugx/dsa-practice/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/sarthugx/dsa-practice/tree/master/0763-partition-labels) |
@@ -233,10 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sarthugx/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sarthugx/dsa-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sarthugx/dsa-practice/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthugx/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/sarthugx/dsa-practice/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
