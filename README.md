@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sarthugx/dsa-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sarthugx/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sarthugx/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sarthugx/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthugx/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sarthugx/dsa-practice/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/sarthugx/dsa-practice/tree/master/0867-transpose-matrix) |
@@ -236,11 +237,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sarthugx/dsa-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sarthugx/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sarthugx/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sarthugx/dsa-practice/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthugx/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarthugx/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sarthugx/dsa-practice/tree/master/0503-next-greater-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
