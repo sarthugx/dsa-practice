@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sarthugx/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sarthugx/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/sarthugx/dsa-practice/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/sarthugx/dsa-practice/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/sarthugx/dsa-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sarthugx/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sarthugx/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sarthugx/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthugx/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/sarthugx/dsa-practice/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/sarthugx/dsa-practice/tree/master/0403-frog-jump) |
 ## Sorting
 |  |
 | ------- |
